@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c12a72c41e2ad04eb8c1e0a71094ced, type: 3}
+  m_Name: UnitLevel1
+  m_EditorClassIdentifier: 
+  level: 1
+  cost: 10
+  objectToSpawn: {fileID: 1039850002053494258, guid: 11372c380e464ea47a82c06666c7ff59,
+    type: 3}
+  sprite: {fileID: -7929151455688192581, guid: 8b132a9e6f0aa7344be4cefc39b605c6, type: 3}
